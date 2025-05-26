@@ -59,6 +59,14 @@
 
   ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
+<h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=algolia" alt="GitHub Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> 
+</div>
+
 <h2>Connect with Me 🤝</h2>
 <p align="left">
 <a href="https://linkedin.com/in/manikanth-davu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanth-davu" height="30" width="40" /></a>
@@ -67,12 +75,6 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact" alt="davumanikanth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&locale=en" alt="davumanikanth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&" alt="davumanikanth" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="davumanikanth" /> </p>
