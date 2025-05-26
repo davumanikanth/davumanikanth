@@ -43,10 +43,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
-<!--  <div style="display: flex; justify-content: center;">
+
+![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
+
+ <div style="display: flex; justify-content: center;">
     <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="margin-right: 20px;"/>
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=davumanikanth&theme=dark&border=border&animated=true" alt="LeetCode Stats" />
- </div>  -->
+<!--     <img src="https://leetcode-badge-showcase.vercel.app/api?username=davumanikanth&theme=dark&border=border&animated=true" alt="LeetCode Stats" /> -->
+ </div>  
 
 <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <div align="center">
@@ -57,15 +60,9 @@
   
 </div>
 
-  ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
+  
 
-<h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=algolia" alt="GitHub Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> 
-</div>
+
 
 <h2>Connect with Me 🤝</h2>
 <p align="left">
