@@ -78,9 +78,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 
 </p>
-## 📈 GitHub Stats
 
-![Metrics](/github-metrics.svg)
 
 
 
