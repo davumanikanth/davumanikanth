@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **i love solving problems**
 
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
