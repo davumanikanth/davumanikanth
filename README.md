@@ -46,10 +46,10 @@
 
 ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
- <div style="display: flex; justify-content: center;">
-    <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-<!--      <img src="https://leetcode-badge-showcase.vercel.app/api?username=davumanikanth&theme=dark&border=border&animated=true" alt="LeetCode Stats" />  -->
- </div>  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
+</div>
+  
 
 <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <div align="center">
