@@ -69,15 +69,14 @@
 ## 📫 Let's Connect 🤝
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
-
-
-
-![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
 <p align="left">
 <a href="https://linkedin.com/in/manikanth-davu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanth-davu" height="30" width="40" /></a>
 <a href="https://instagram.com/iamyour_manikanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamyour_manikanth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manikanthdavu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manikanthdavu15" height="30" width="40" /></a>
-   ![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
+<a href="https://www.leetcode.com/manikanthdavu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manikanthdavu15" height="30" width="40" /><
+
+![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
+
+
 </p>
 
 
