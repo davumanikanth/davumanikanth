@@ -81,7 +81,7 @@
 <br/>
 </div>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=github_dark)
