@@ -1,7 +1,5 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!</h2>
-
-<h2> About Me </h2>
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🔭 I’m currently working on **Fullstack Web Development.**
 
