@@ -53,10 +53,13 @@
 
 <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <div align="center">
+   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=algolia" alt="GitHub Streak Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
 <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+   ![](https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 </div>
 
