@@ -1,6 +1,6 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!</h2>
  
- ---
+
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🔭 I’m currently working on **Fullstack Web Development.**
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **i love solving problems**
 
-  ---
 
    <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
 <p align="center">
@@ -46,11 +45,11 @@
   </a>
 </p>
 
----
+
 
 ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
----
+
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
@@ -99,7 +98,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 </p>
 
-
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="davumanikanth" /> </p>
