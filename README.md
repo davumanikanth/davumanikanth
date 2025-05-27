@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
 
 ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
