@@ -54,7 +54,7 @@
 <!-- <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2> -->
 <div align="center">
    <!-- theme=algolia-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=blood" alt="GitHub Streak Stats"/>
   <br>
  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/> 
