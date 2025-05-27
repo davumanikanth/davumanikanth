@@ -56,7 +56,7 @@
    
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=algolia" alt="GitHub Streak Stats"/>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> -->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
