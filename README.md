@@ -1,5 +1,5 @@
- align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!
-  
+ <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
+   
  <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
@@ -52,7 +52,7 @@
 ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
 
-
+<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:middle;" /> </h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
