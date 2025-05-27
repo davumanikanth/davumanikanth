@@ -70,11 +70,14 @@
    <!-- theme=algolia   || theme=radical || theme=dark&ring || theme=react -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=react" alt="GitHub Streak Stats"/>
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" width="420" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> -->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/> -->
 <br/>
 </div>
 
