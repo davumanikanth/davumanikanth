@@ -67,14 +67,14 @@
 <!-- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: -->
 <!-- <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2> -->
 <div align="center">
-   <!-- theme=algolia   || theme=radical || theme=dark&ring -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=dark&ring" alt="GitHub Streak Stats"/>
+   <!-- theme=algolia   || theme=radical || theme=dark&ring || theme=react -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=react" alt="GitHub Streak Stats"/>
   <br>
  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=dark&ring" alt="Top Languages"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/> 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> -->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=dark&ring&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <br/>
 </div>
 
