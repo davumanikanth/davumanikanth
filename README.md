@@ -1,5 +1,6 @@
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
    
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="davumanikanth" /> </p>
  <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
@@ -90,10 +91,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=github_dark)
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 
-<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Let's Connect 
+
+<h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2>
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
 <p align="center">
@@ -102,13 +103,16 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 <a href="https://www.leetcode.com/manikanthdavu15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manikanthdavu15" height="30" width="40" /></a>
 </p>
 
-![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
-
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="davumanikanth" /> </p>
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davumanikanth" alt="davumanikanth" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+ ![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
