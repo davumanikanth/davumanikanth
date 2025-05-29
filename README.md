@@ -56,14 +56,10 @@
 
 
 
-![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
 
 
-<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:middle;" /> </h2>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
-</div>
+
 
 
 
@@ -80,6 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" width="390" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+ 
+  ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" /> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> -->
@@ -91,16 +89,29 @@
 <h2>GitHub Insights <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=github_dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=github_dark" alt="Profile Details"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=github_dark" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=github_dark)
 
 
+<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:middle;" /> </h2>
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
+</div>
 
-<h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2>
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Let's Connect</h2>
+<!-- <h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2> -->
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
 <p align="center">
@@ -112,11 +123,13 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davumanikanth" alt="davumanikanth" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
