@@ -1,6 +1,12 @@
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
-   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="davumanikanth" /> </p>
+  <!-- profile visitors--> 
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20"/>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" height="20"/>
+</p>
+
+ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=davumanikanth.davumanikanth) -->
+  
  <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
