@@ -106,10 +106,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=green_dark" alt="Profile Details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=dark" alt="Profile Details"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=green_dark" alt="Productive Time"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=dark" alt="Productive Time"/>
     </td>
   </tr>
 </table>
