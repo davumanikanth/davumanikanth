@@ -83,12 +83,12 @@
 <div align="center">
  
   ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
-   <!-- theme=algolia   || theme=radical || theme=dark&ring || theme=react -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=react" alt="GitHub Streak Stats"/>
+   <!-- theme=algolia   || theme=radical || theme=dark&ring || theme=react || theme=ocean_dark-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=ocean_dark" alt="GitHub Streak Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="Top Languages" width="390" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
  
  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=radical" /> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages"/> -->
