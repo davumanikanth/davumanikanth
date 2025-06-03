@@ -140,7 +140,8 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=ocean_dark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=dark_blue&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
