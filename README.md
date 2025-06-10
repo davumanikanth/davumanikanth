@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C/JAVA**
 
-- 📫 How to reach me **dmanikanthcse@gmail.com**
+- 📫 How to reach me **323103310060@gvpce.ac.in**
 
 - ⚡ Fun fact **i love solving problems**
 
