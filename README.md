@@ -86,8 +86,8 @@
  
   ![snake gif](https://github.com/davumanikanth/davumanikanth/blob/output/github-snake-dark.svg)
    <!-- theme=algolia   || theme=radical || theme=dark&ring || theme=react || theme=ocean_dark-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=chartreuse-dark" alt="GitHub Streak Stats"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=chartreuse-dark" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=davumanikanth&theme=chartreuse-dark" />
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="390" />
   
