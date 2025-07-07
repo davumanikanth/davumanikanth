@@ -13,16 +13,16 @@
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="vertical-align:middle;" /> About Me</h2>>
-- 🔭 I’m currently working on **Nothing.**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and tackling problem-solving challenges**
+- 🔭 I’m currently working on absolutely nothing — professional procrastinator in action.
 
-- 💬 Ask me about **C/JAVA**
+- 🌱 I’m currently learning how to look busy while doing nothing (and maybe a bit of DSA on the side).
 
-- 📫 How to reach me **323103310060@gvpce.ac.in**
+- 💬 Don’t ask me about C/JAVA — unless you want both of us to cry.
 
-- ⚡ Fun fact **i love solving problems**
+- 📫 How to reach me: please don’t... but if you must: 323103310060@gvpce.ac.in
 
+- ⚡ Fun fact: I say I love solving problems, but I'm actually really good at creating them. 😅
 
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
