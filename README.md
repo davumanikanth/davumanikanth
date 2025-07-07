@@ -13,7 +13,7 @@
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="vertical-align:middle;" /> About Me</h2>>
-- 🔭 I’m currently working on **Fullstack Web Development.**
+- 🔭 I’m currently working on **Nothing.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and tackling problem-solving challenges**
 
