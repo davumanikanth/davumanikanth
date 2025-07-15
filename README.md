@@ -123,6 +123,10 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
+ <div style="display: flex; justify-content: center;">
+    <img src="https://leetcard.jacoblin.cool/davumanikanth15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="margin-right: 20px;"/>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=davumanikanth15&theme=dark&border=border&animated=true" alt="LeetCode Stats" />
+</div> 
 </div>
 
 <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Let's Connect</h2>
