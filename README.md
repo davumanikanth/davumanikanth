@@ -121,13 +121,12 @@
 
 <h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:middle;" /> </h2>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
- <div style="display: flex; justify-content: center;">
-    <img src="https://leetcard.jacoblin.cool/davumanikanth15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="margin-right: 20px;"/>
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=davumanikanth15&theme=dark&border=border&animated=true" alt="LeetCode Stats" />
-</div> 
-</div>
+
+<section style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="650" height="800"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true" alt="LeetCode Badge" width="350"/>
+</section>
+
 
 <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Let's Connect</h2>
 <!-- <h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2> -->
