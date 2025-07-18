@@ -123,8 +123,8 @@
 
 
 <section style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="640" height="800"/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true" alt="LeetCode Badge" width="350"/>
+  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500" height="800"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true" alt="LeetCode Badge" width="250"/>
 </section>
 
 
