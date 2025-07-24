@@ -100,7 +100,7 @@
 <br/>
 </div>
 
-<h2>GitHub Insights <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+<h2>GitHub Graph<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 
 
 <table>
