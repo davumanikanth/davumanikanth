@@ -2,7 +2,7 @@
 
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
   <!-- profile visitors--> 
-  <img align="right" alt="Coding" width="200" height="300" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
+ 
   <p align="left"><img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
 <!--  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20"/>
@@ -14,6 +14,7 @@
  <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
  
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
+ <img align="right" alt="Coding" width="200" height="300" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="vertical-align:middle;" /> About Me</h2>>
 
 - 🔭 I’m currently working on **absolutely nothing — full-time expert at doing nothing** 🛋️💼😎
