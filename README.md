@@ -114,6 +114,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davumanikanth&bg_color=0d1117&color=00ff00&line=00cc66&point=00ff99&area=true&hide_border=true" width="100%" />
+</p>
 
 
 
