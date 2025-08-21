@@ -2,10 +2,11 @@
 
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
   <!-- profile visitors--> 
- <p align="left">
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
+<!--  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=davumanikanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20"/>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" height="20"/>
-</p>
+</p> -->
 
  <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=davumanikanth.davumanikanth) -->
   
