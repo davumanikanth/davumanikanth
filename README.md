@@ -189,7 +189,7 @@
 
 
 
-<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:middle;" /> </h2>
+<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:left;" /> </h2>
 
 
 <section style="display: flex; justify-content: center; gap: 20px;">
@@ -198,7 +198,7 @@
 </section>
 
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Let's Connect</h2>
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" >  Let's Connect</h2>
 <!-- <h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2> -->
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
