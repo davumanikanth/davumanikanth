@@ -147,8 +147,11 @@
 
   <div>
 <p>
+ <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&hide_border=true&card_width=400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&hide_border=true&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&hide_border=true&card_width=400"/>
+</div>
+
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=chartreuse-dark&hide_border=true&layout=compact&locale=en&card_width=1000" alt="Streak Stats" />
   
