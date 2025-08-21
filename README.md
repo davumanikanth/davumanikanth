@@ -16,7 +16,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
 
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="vertical-align:middle;" /> About Me</h2>>
- <img align="right" alt="Coding" width="200" height="260" src="https://raw.githubusercontent.com/davumanikanth/davumanikanth/main/B4DD04C0-C184-4C80-A426-8B8BDF11E497.PNG">
+<!--  <img align="right" alt="Coding" width="200" height="260" src="https://raw.githubusercontent.com/davumanikanth/davumanikanth/main/B4DD04C0-C184-4C80-A426-8B8BDF11E497.PNG"> -->
 - 🔭 I’m currently working on **absolutely nothing — full-time expert at doing nothing** 🛋️💼😎
 
 - 🌱 I’m currently learning ** how to look busy while doing nothing (and maybe a bit of DSA on the side) **🧠📚
@@ -167,7 +167,11 @@
 <br/>
 </div>
 
-<h2>GitHub Graph<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+
+<h2 align="left">
+   GitHub Graph 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle; margin-left: 8px;">
+</h2>
 
 
 <table>
@@ -189,7 +193,11 @@
 
 
 
-<h2>LeetCode<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align:left;" /> </h2>
+
+<h2 align="left">
+  LeetCode
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align: middle; margin-left: 8px;">
+</h2>
 
 
 <section style="display: flex; justify-content: center; gap: 20px;">
@@ -198,7 +206,11 @@
 </section>
 
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" >  Let's Connect</h2>
+<h2 align="left">
+  🤝 Let's Connect
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-left: 8px;">
+</h2>
+
 <!-- <h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2> -->
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about creating awesome things with code
@@ -214,9 +226,9 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
-## 🏆 GitHub Trophies
 
 
+<h2 align="left"> GitHub Trophies  🏆</h2>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
