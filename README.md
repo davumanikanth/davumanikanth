@@ -16,7 +16,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: -->
 
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" style="vertical-align:middle;" /> About Me</h2>>
- <img align="right" alt="Coding" width="200" height="250" src="https://raw.githubusercontent.com/davumanikanth/davumanikanth/main/B4DD04C0-C184-4C80-A426-8B8BDF11E497.PNG">
+ <img align="right" alt="Coding" width="200" height="280" src="https://raw.githubusercontent.com/davumanikanth/davumanikanth/main/B4DD04C0-C184-4C80-A426-8B8BDF11E497.PNG">
 - 🔭 I’m currently working on **absolutely nothing — full-time expert at doing nothing** 🛋️💼😎
 
 - 🌱 I’m currently learning ** how to look busy while doing nothing (and maybe a bit of DSA on the side) **🧠📚
