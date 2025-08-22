@@ -232,7 +232,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=radical&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
+    <img src="https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=radical&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="davumanikanth" />
   </a>
 </p>
 
