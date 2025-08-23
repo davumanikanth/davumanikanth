@@ -207,8 +207,9 @@
 
 
 <h2 align="left">
-  🤝 Let's Connect
+
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-left: 8px;">
+    Let's Connect
 </h2>
 
 <!-- <h2><img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30" style="vertical-align:middle;" /> Let's Connect</h2> -->
