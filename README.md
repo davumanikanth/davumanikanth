@@ -69,6 +69,14 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
+ <img
+  src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg"
+  alt="n8n logo"
+  width="130"
+  height="50"
+  loading="lazy"
+/>
+
 </p>
 
 <!-- Programming Languages -->
