@@ -41,10 +41,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="ReactJS" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a> -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -57,15 +57,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a> -->
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
