@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b957d32e212a1168c9bcd26cf38c892c6b5619e7933f294e33a305543f49c15a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f32326232323238373630323532332e356462643239303831353631642e676966" alt="Coding GIF" width="90%" />
+</p>
 
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Davu Manikanth!  </h2>
   <!-- profile visitors--> 
