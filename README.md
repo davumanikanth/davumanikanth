@@ -239,13 +239,21 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
 
 
-<h2 align="left"> GitHub Trophies  🏆</h2>
+<!-- <h2 align="left"> GitHub Trophies  🏆</h2>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=davumanikanth&theme=radical&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="davumanikanth" />
   </a>
 </p>
+ -->
+
+
+ ## 🎖️ Badges
+
+  <a href="https://holopin.io/@aaditya0004" target="_blank">
+    <img src="https://holopin.me/aaditya0004" alt="An image of @aaditya0004's Holopin badges" />
+  </a>
 
 
 
