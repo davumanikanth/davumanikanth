@@ -202,21 +202,28 @@
 
 
 
-
+<!-- start  of leetcode-->
 
 <h2 align="left">
   LeetCode
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" style="vertical-align: middle; margin-left: 8px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
 </h2>
 
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap"
+    alt="LeetCode Stats"
+    height="250"
+  />
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true"
+    alt="LeetCode Badge"
+    height="250"
+  />
+</p>
 
-<section style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500" height="800"/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true" alt="LeetCode Badge" width="250"/>
-</section>
 
-
-<h2 align="left">
+<!-- ebd  of leetcode-->
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-left: 8px;">
     Let's Connect
@@ -260,4 +267,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
- ![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
+ ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
+  ![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
+
+
