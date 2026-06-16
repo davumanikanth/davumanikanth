@@ -204,23 +204,23 @@
 
 <!-- start  of leetcode-->
 
-<h2 align="left">
+<!-- <h2 align="left">
   LeetCode
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
 </h2>
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/manikanthdavu15?theme=dark&font=Fira%20Code&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/DavuManikanth?theme=dark&font=Fira%20Code&ext=heatmap"
     alt="LeetCode Stats"
     height="250"
   />
   <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=manikanthdavu15&theme=dark&border=border&animated=true"
+    src="https://leetcode-badge-showcase.vercel.app/api?username=DavuManikanth&theme=dark&border=border&animated=true"
     alt="LeetCode Badge"
     height="250"
   />
-</p>
+</p> -->
 
 
 <!-- ebd  of leetcode-->
