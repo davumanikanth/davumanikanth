@@ -155,16 +155,26 @@
 
 
 
-  <div>
-<p>
- <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davumanikanth&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&hide_border=true&card_width=400" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&hide_border=true&card_width=400" />
-</p>
+
+## 📊 &nbsp;`$ git log --stat`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=davumanikanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davumanikanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00d4ff&text_color=e2e8f0" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=tokyonight&hide_border=true&background=050a0e&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=64748b" height="175"/>
+
+
+
+
 
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=chartreuse-dark&hide_border=true&layout=compact&locale=en&card_width=1000" alt="Streak Stats" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davumanikanth&theme=tokyonight&hide_border=true&layout=compact&locale=en&card_width=1000&bg_color=050a0e" alt="Streak Stats" /> -->
   
 </p>
 
@@ -187,17 +197,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=github_dark" alt="Profile Details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davumanikanth&theme=tokyonight" alt="Profile Details"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=github_dark" alt="Productive Time"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davumanikanth&theme=tokyonight" alt="Productive Time"/>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davumanikanth&bg_color=0d1117&color=00ff00&line=00cc66&point=00ff99&area=true&hide_border=true" width="100%" />
-</p>
 
 
 
@@ -224,6 +231,15 @@
 
 
 <!-- ebd  of leetcode-->
+## 🌐 &nbsp;`$ htop --activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davumanikanth&theme=react-dark&bg_color=050a0e&color=00d4ff&line=7c3aed&point=10b981&area=true&area_color=7c3aed&hide_border=true" width="100%"/>
+
+</div>
+
+---
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="vertical-align: middle; margin-left: 8px;">
     Let's Connect
